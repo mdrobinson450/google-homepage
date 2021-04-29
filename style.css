@@ -1,13 +1,15 @@
 h1{
     display: flex;
     justify-content: center;
-    color: #FFFF00;
 }
-
 p{
     display: flex;
     flex-direction: column;
     justify-content: center;
     color: #FF0000;
     font-weight: 900;
+}
+footer{
+    display: flex;
+    justify-content: center;
 }
